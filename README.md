@@ -2,8 +2,8 @@
 
 ## Initialiser et cloner
 
-```git init``` : Initialise un répertoire en tant que dépôt Git
-```git clone``` : Récupère un dépôt à partir d'une url (https ou ssh)
+```git init``` : Initialise un répertoire en tant que dépôt Git <br/>
+```git clone``` : Récupère un dépôt à partir d'une url (https ou ssh) <br/>
 
 ## Commiter
 
